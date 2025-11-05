@@ -1,0 +1,14 @@
+# Зависимости
+node_modules/
+
+# Сборка и тесты
+.vscode-test/
+out/
+*.vsix
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
